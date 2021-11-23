@@ -1,1 +1,1 @@
-# A simple todo application
+# A simple todo application and my personal app.
